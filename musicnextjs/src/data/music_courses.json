@@ -1,0 +1,34 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of guitar",
+            "price": 50,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Fundamentals",
+            "slug": "piano-fundamentals",
+            "description": "Learn the basics of piano",
+            "price": 50,
+            "instructor": "Jane Doe",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Violin Fundamentals",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of violin",
+            "price": 50,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"
+        }
+    ]
+}
